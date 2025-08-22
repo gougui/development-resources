@@ -178,6 +178,7 @@
 
 ## Interactive learning
 
+* [LabEx](https://labex.io/learn) Interactive hands-on learning platform with 6000+ labs covering programming, Linux, DevOps, cybersecurity, data science, and cloud technologies. Learn through real-world scenarios with step-by-step guidance
 * [LiveCoding](https://www.livecoding.tv/) Watch and ask questions of live coders
 * [CS Unplugged](http://csunplugged.org/) Introduction to CS without computers.  Great for kids.
 * [Scratch](https://scratch.mit.edu/) Introduction to coding for kids
